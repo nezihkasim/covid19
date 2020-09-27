@@ -1,0 +1,9 @@
+D:\disk_e\Wh u gonna do\Egitim\ITU\In Process\BLG 252 OOP\2020\final\final_q2\bin\Debug\final_q2.exe.config
+D:\disk_e\Wh u gonna do\Egitim\ITU\In Process\BLG 252 OOP\2020\final\final_q2\bin\Debug\final_q2.exe
+D:\disk_e\Wh u gonna do\Egitim\ITU\In Process\BLG 252 OOP\2020\final\final_q2\bin\Debug\final_q2.pdb
+D:\disk_e\Wh u gonna do\Egitim\ITU\In Process\BLG 252 OOP\2020\final\final_q2\obj\Debug\final_q2.csprojAssemblyReference.cache
+D:\disk_e\Wh u gonna do\Egitim\ITU\In Process\BLG 252 OOP\2020\final\final_q2\obj\Debug\final_q2.Form1.resources
+D:\disk_e\Wh u gonna do\Egitim\ITU\In Process\BLG 252 OOP\2020\final\final_q2\obj\Debug\final_q2.Properties.Resources.resources
+D:\disk_e\Wh u gonna do\Egitim\ITU\In Process\BLG 252 OOP\2020\final\final_q2\obj\Debug\final_q2.csproj.GenerateResource.cache
+D:\disk_e\Wh u gonna do\Egitim\ITU\In Process\BLG 252 OOP\2020\final\final_q2\obj\Debug\final_q2.exe
+D:\disk_e\Wh u gonna do\Egitim\ITU\In Process\BLG 252 OOP\2020\final\final_q2\obj\Debug\final_q2.pdb
